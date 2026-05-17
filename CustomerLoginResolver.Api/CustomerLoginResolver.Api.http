@@ -1,0 +1,6 @@
+@CustomerLoginResolver.Api_HostAddress = http://localhost:5255
+
+GET {{CustomerLoginResolver.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

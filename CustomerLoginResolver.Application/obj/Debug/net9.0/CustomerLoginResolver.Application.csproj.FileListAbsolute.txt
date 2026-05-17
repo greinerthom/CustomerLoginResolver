@@ -1,0 +1,11 @@
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\bin\Debug\net9.0\CustomerLoginResolver.Application.deps.json
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\bin\Debug\net9.0\CustomerLoginResolver.Application.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\bin\Debug\net9.0\CustomerLoginResolver.Application.pdb
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\CustomerLoginResolver.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\CustomerLoginResolver.Application.AssemblyInfoInputs.cache
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\CustomerLoginResolver.Application.AssemblyInfo.cs
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\CustomerLoginResolver.Application.csproj.CoreCompileInputs.cache
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\CustomerLoginResolver.Application.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\refint\CustomerLoginResolver.Application.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\CustomerLoginResolver.Application.pdb
+C:\CustomerLoginResolver\CustomerLoginResolver.Application\obj\Debug\net9.0\ref\CustomerLoginResolver.Application.dll

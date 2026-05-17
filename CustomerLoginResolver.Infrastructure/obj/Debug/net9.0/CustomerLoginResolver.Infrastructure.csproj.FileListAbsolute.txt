@@ -1,0 +1,15 @@
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\bin\Debug\net9.0\CustomerLoginResolver.Infrastructure.deps.json
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\bin\Debug\net9.0\CustomerLoginResolver.Infrastructure.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\bin\Debug\net9.0\CustomerLoginResolver.Infrastructure.pdb
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\bin\Debug\net9.0\CustomerLoginResolver.Application.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\bin\Debug\net9.0\CustomerLoginResolver.Application.pdb
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.csproj.AssemblyReference.cache
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.AssemblyInfoInputs.cache
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.AssemblyInfo.cs
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\Customer.2F09EF90.Up2Date
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\refint\CustomerLoginResolver.Infrastructure.dll
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\CustomerLoginResolver.Infrastructure.pdb
+C:\CustomerLoginResolver\CustomerLoginResolver.Infrastructure\obj\Debug\net9.0\ref\CustomerLoginResolver.Infrastructure.dll

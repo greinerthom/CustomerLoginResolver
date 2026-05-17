@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CustomerLoginResolver.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CustomerLoginResolver.Application": "1.0.0"
+        },
+        "runtime": {
+          "CustomerLoginResolver.Infrastructure.dll": {}
+        }
+      },
+      "CustomerLoginResolver.Application/1.0.0": {
+        "runtime": {
+          "CustomerLoginResolver.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerLoginResolver.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerLoginResolver.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
